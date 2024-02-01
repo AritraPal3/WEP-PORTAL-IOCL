@@ -1,0 +1,11 @@
+#Tomcat publish data
+#Thu Feb 01 14:37:34 IST 2024
+org.eclipse.jst.j2ee.server\:poi-ooxml-schemas-3.12=WEB-INF/lib/poi-ooxml-schemas-3.12.jar
+org.eclipse.jst.j2ee.server\:activation-1.1=WEB-INF/lib/activation-1.1.jar
+org.eclipse.jst.j2ee.server\:poi-3.12=WEB-INF/lib/poi-3.12.jar
+org.eclipse.jst.j2ee.server\:stax-api-1.0.1=WEB-INF/lib/stax-api-1.0.1.jar
+org.eclipse.jst.j2ee.server\:commons-codec-1.9=WEB-INF/lib/commons-codec-1.9.jar
+org.eclipse.jst.j2ee.server\:xmlbeans-2.6.0=WEB-INF/lib/xmlbeans-2.6.0.jar
+org.eclipse.jst.j2ee.server\:poi-ooxml-3.12=WEB-INF/lib/poi-ooxml-3.12.jar
+org.eclipse.jst.j2ee.server\:javax.servlet-api-4.0.1=WEB-INF/lib/javax.servlet-api-4.0.1.jar
+org.eclipse.jst.j2ee.server\:javax.mail-1.6.2=WEB-INF/lib/javax.mail-1.6.2.jar
